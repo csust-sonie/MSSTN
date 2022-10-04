@@ -14,7 +14,7 @@ from loguru import logger
 from metrices import masked_mae_np, masked_mape_np, masked_rmse_np
 from evaluation import evaluation
 
-from models.model_v9 import Archer
+from models.model_v6 import Archer
 from models.STGCN import STGCN
 
 
